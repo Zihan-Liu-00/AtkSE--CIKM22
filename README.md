@@ -1,2 +1,2 @@
 # AtkSE
-Pytorch implementation for paper 'Are Gradients on Graph Structure Reliable in Gray-box Attacks?'
+Pytorch implementation for CIKM22 paper 'Are Gradients on Graph Structure Reliable in Gray-box Attacks?'
